@@ -1,0 +1,8 @@
+---
+title: 'From Intent to Impact: 3 Steps to Kickstart Your Supplier Engagement Journey'
+url: https://www.terrascope.com/blog/from-intent-to-impact-3-steps-to-kickstart-your-supplier-engagement-journey
+date: '2025-11-27'
+author: Liu Xinlu
+feed_url: https://terrascope.com/blog/rss.xml
+---
+Executive Summary Supplier engagement is the cornerstone of credible decarbonization because most emissions sit in the value chain—not in a company’s own operations. Successful programs start with clear, realistic objectives that distinguish between data collection, data accuracy, compliance alignment, and actual emissions reduction Companies should prioritize a small set of high-impact suppliers first —those with material emissions, reliable data, access to upstream hotspots, and genuine ability or willingness to decarbonise—while building broader supplier capacity over time. A structured, two-horizon approach works best: short-term focus on capable, strategic suppliers to build early wins; long-term expansion to prepare the wider base and enable scalable emissions reductions. Engagement must be anchored in shared value for suppliers , including capacity-building, transparent insights, certifications or labelling benefits, preferential terms, and collaboration on low-carbon products — shifting climate action from a compliance burden to a commercial opportunity. Ultimately, supplier engagement succeeds when it is clear, sequenced, and mutually valuable. Terrascope helps companies operationalise this by making supplier participation easier, data collection more accurate, and engagement more scalable across the value chain.
